@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  text-align: center;
+  background: rgb(237, 42, 255);
+  background-image: repeating-linear-gradient( to bottom, transparent 7px, rgba(0, 0, 0, 0.8) 9px, rgba(0, 0, 0, 0.8) 13px, transparent 13px );
+  color: white;
+}
+.tubelight span{
+
+  text-shadow:0px 0px 20px ,
+      0px 0px 30px  #001cbb,
+      0px 0px 10px  #fff,
+      0px 0px 1px  #fff;
+      
+}
